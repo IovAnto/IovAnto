@@ -1,6 +1,3 @@
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IovAnto/IovAnto/main/assets/header-mocha.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IovAnto/IovAnto/main/assets/header-latte.svg">
@@ -36,10 +33,9 @@ engineering role**, in Verona or remote.
 </picture>
 
 Counted straight from the GitHub API by
-[`tools/gen_stats.py`](tools/gen_stats.py) and redrawn by a nightly workflow 
+[`tools/gen_stats.py`](tools/gen_stats.py) and redrawn by a nightly workflow.
 
 ### Contact
 
 [iovine.antonio44@gmail.com](mailto:iovine.antonio44@gmail.com)
-[linkedin.com/in/antonio-iovine](www.linkedin.com/in/antonio-iovine-5632363a2)
-
+· [linkedin.com/in/iovine-antonio](https://www.linkedin.com/in/iovine-antonio)
