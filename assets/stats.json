@@ -5,13 +5,13 @@
     "C": 40187,
     "Go": 24396,
     "Java": 77237,
-    "Python": 18495,
+    "Python": 56879,
     "Rust": 56497,
     "Shell": 6586,
     "SystemVerilog": 58771
   },
-  "recente": "dns-switcher",
-  "recente_quando": "2026-07-31",
+  "recente": "LC-3_Verilog",
+  "recente_quando": "2026-08-01",
   "release": 8,
   "repo": 9,
   "stelle": 2
