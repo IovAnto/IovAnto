@@ -1,0 +1,18 @@
+{
+  "dal": "2023",
+  "lingue": {
+    "Assembly": 42934,
+    "C": 40187,
+    "Go": 24396,
+    "Java": 77237,
+    "Python": 18495,
+    "Rust": 56497,
+    "Shell": 6586,
+    "SystemVerilog": 58771
+  },
+  "recente": "dns-switcher",
+  "recente_quando": "2026-07-31",
+  "release": 8,
+  "repo": 9,
+  "stelle": 2
+}
