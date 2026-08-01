@@ -33,12 +33,10 @@ engineering role**, in Verona or remote.
 </picture>
 
 Counted straight from the GitHub API by
-[`tools/gen_stats.py`](tools/gen_stats.py) and redrawn by a nightly workflow — no
-third-party card service, and nothing here is hand-typed.
+[`tools/gen_stats.py`](tools/gen_stats.py) and redrawn by a nightly workflow 
 
 ### Contact
 
 [iovine.antonio44@gmail.com](mailto:iovine.antonio44@gmail.com)
-<!-- Quando il profilo LinkedIn esiste, scommenta questa riga e metti l'URL giusto:
-· [linkedin.com/in/tuo-profilo](https://linkedin.com/in/TUO-PROFILO)
--->
+[linkedin.com/in/antonio-iovine](www.linkedin.com/in/antonio-iovine-5632363a2)
+
