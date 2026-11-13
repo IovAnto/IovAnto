@@ -2,17 +2,18 @@
   "dal": "2023",
   "lingue": {
     "Assembly": 42934,
-    "C": 40187,
+    "C": 447934,
+    "CMake": 5119,
     "Go": 24396,
     "Java": 77237,
-    "Python": 56879,
+    "Python": 216557,
     "Rust": 56497,
     "Shell": 6586,
     "SystemVerilog": 58771
   },
-  "recente": "LC-3_Verilog",
-  "recente_quando": "2026-08-01",
+  "recente": "Cplus-Lib",
+  "recente_quando": "2026-11-12",
   "release": 8,
-  "repo": 9,
-  "stelle": 5
+  "repo": 10,
+  "stelle": 6
 }
