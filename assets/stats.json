@@ -6,13 +6,14 @@
     "CMake": 5119,
     "Go": 24396,
     "Java": 77237,
+    "JavaScript": 274150,
     "Python": 216557,
     "Rust": 56497,
     "Shell": 6586,
     "SystemVerilog": 58771
   },
   "recente": "sap-btp-guide",
-  "recente_quando": "2026-11-24",
+  "recente_quando": "2026-11-25",
   "release": 8,
   "repo": 11,
   "stelle": 6
