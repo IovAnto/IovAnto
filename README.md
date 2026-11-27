@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IovAnto/IovAnto/main/assets/header-mocha.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IovAnto/IovAnto/main/assets/header-latte.svg">
-  <img alt="Terminal session: whoami returns Antonio Iovine, software engineer; focus is systems, low-level and terminal tooling; projects are dns-switcher, LC-3, LiteFTP, gotodo and TetrisTUI; status working at Stulz, Coding in my freetime, based in Verona, Italy" src="https://raw.githubusercontent.com/IovAnto/IovAnto/main/assets/header-latte.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IovAnto/IovAnto/main/assets/header-mocha.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IovAnto/IovAnto/main/assets/header-latte.svg?v=2">
+  <img alt="Terminal session: whoami returns Antonio Iovine, software engineer; focus is systems, low-level and terminal tooling; projects are dns-switcher, LC-3, LiteFTP, gotodo and TetrisTUI; status working at Stulz, coding in my freetime, based in Verona, Italy" src="https://raw.githubusercontent.com/IovAnto/IovAnto/main/assets/header-latte.svg?v=2">
 </picture>
 
 Most of what I write is systems software: small tools that live in the terminal and sit
