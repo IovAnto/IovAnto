@@ -10,8 +10,7 @@ underneath, and I notice when a program burns more than it should.
 
 I finished my degree in July 2026 with a thesis on optimising Vision-Language-Model Action
 pipelines, after an internship at the university's Computer Science department working on
-how well VLM agents reason about indoor navigation. **Looking for my first software
-engineering role**, in Verona or remote.
+how well VLM agents reason about indoor navigation. Now I'm looking for some side projects to work on in my free time.
 
 ### Projects
 
