@@ -32,7 +32,7 @@ SESSIONE = [
     ("whoami", ["Antonio Iovine, software engineer"]),
     ("cat focus.txt", ["systems / low-level / terminal tooling"]),
     ("ls projects/", ["dns-switcher   LC-3   LiteFTP   gotodo   TetrisTUI"]),
-    ("status", ["working at Stulz, coding in my freetime, based in Verona, Italy"]),
+    ("status", ["working at Stulz, coding in my free time, based in Verona, Italy"]),
 ]
 
 # ---------------------------------------------------------------- geometria
